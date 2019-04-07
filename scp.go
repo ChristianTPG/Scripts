@@ -78,7 +78,7 @@ func main() {
 		Ip: "192.168.0.5",
 		User: "osmc",
 		Port: 22,
-		Cert: "/Users/christian/.ssh/id_rsa",
+		Cert: "/Users/chris/.ssh/id_rsa",
 	}
 
 	client.Connect()
